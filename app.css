@@ -1,0 +1,41 @@
+body {}
+
+header {}
+
+
+
+
+
+main {}
+
+    .section {}
+
+        .field {}
+
+            .fieldset-legend {
+                font-weight: bold;
+            }
+
+
+
+    .lists-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+        .modify-store-container {}
+
+
+
+
+
+
+
+        .current-lists-container {}
+
+
+
+
+
+
+footer {}
